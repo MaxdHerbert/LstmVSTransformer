@@ -17,6 +17,7 @@ ETTh1 — 2 years of hourly electrical load and oil temperature data from China.
 -Data Preprocessing with Pandas
 -Normalization using MinMaxScaler
 -Evaluation with MSE loss
+
 **Tools & Libraries**
 
 Python, PyTorch, Pandas, Scikit-learn, Matplotlib
